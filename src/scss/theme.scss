@@ -1,0 +1,22 @@
+// Color System (Loaded first for alternate color scheme generation using Gulp)
+$primary: #ef4035 !default;
+
+// Import Variables
+@import 'variables';
+
+// Import Bootstrap
+@import 'bootstrap/bootstrap';
+
+// Import Theme Components
+@import 'global';
+@import 'carousel';
+@import 'navbar';
+@import 'masthead';
+@import 'team';
+@import 'callout';
+@import 'process';
+@import 'portfolio-carousel';
+@import 'portfolio-grid';
+@import 'testimonials';
+@import 'contact';
+@import 'footer';

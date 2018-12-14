@@ -1,0 +1,50 @@
+{
+    "title": "Vitality",
+    "name": "startbootstrap-vitality",
+    "version": "3.0.1",
+    "description": "A premium Bootstrap 4 theme",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive",
+        "theme",
+        "template"
+    ],
+    "homepage": "https://startbootstrap.com/template-overviews/grayscale",
+    "bugs": {
+        "url": "https://github.com/davidtmiller/startbootstrap-vitality/issues",
+        "email": "support@startbootstrap.com"
+    },
+    "author": "Start Bootstrap",
+    "contributors": [
+        "David Miller (http://davidmiller.io/)"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/davidtmiller/startbootstrap-vitality.git"
+    },
+    "dependencies": {
+        "@fancyapps/fancybox": "^3.5.1",
+        "@fortawesome/fontawesome-free": "5.3.1",
+        "bootstrap": "4.1.3",
+        "html5-device-mockups": "^3.2.1",
+        "jquery": "3.3.1",
+        "jquery.easing": "^1.4.1",
+        "slick-carousel": "^1.8.1"
+    },
+    "devDependencies": {
+        "browser-sync": "2.24.7",
+        "del": "^3.0.0",
+        "gulp": "^3.9.1",
+        "gulp-autoprefixer": "6.0.0",
+        "gulp-clean-css": "3.10.0",
+        "gulp-file-include": "^2.0.1",
+        "gulp-header": "2.0.5",
+        "gulp-html-beautify": "^1.0.1",
+        "gulp-rename": "1.4.0",
+        "gulp-replace": "^1.0.0",
+        "gulp-sass": "4.0.1",
+        "gulp-uglify": "3.0.1"
+    }
+}
